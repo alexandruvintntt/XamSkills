@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBfIl0dkBNGBU1x/GdpTffx/JBp91JTLkxG98WoVFGkM3YVBM5bLa3SF+DY9rv1mVQFe5dqXP6RZ6Rd2nb6tyw==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\XamSkills\\XamSkillsForms\\XamSkillsForms\\XamSkillsForms.iOS\\XamSkillsForms.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

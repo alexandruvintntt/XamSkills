@@ -1,0 +1,13 @@
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\bin\Debug\netstandard2.0\XamSkillsForms.deps.json
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\bin\Debug\netstandard2.0\XamSkillsForms.dll
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\bin\Debug\netstandard2.0\XamSkillsForms.pdb
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.csprojAssemblyReference.cache
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\Views\UsersPage.xaml.g.cs
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.AssemblyInfoInputs.cache
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.AssemblyInfo.cs
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.csproj.CoreCompileInputs.cache
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.dll
+E:\Work\XamSkills\XamSkillsForms\XamSkillsForms\XamSkillsForms\obj\Debug\netstandard2.0\XamSkillsForms.pdb
